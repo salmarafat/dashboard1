@@ -12,7 +12,7 @@ st.title("🔥 Sales Intelligence Dashboard")
 # ======================
 # LOAD DATA
 # ======================
-df = pd.read_excel(r"C:\Users\Rana\Downloads\01KP0NEWVZBJNEDPE4XBJ45KHD.xlsx")
+df = pd.read_excel("01KP0NEWVZBJNEDPE4XBJ45KHD.xlsx")
 
 # ======================
 # FEATURE ENGINEERING
